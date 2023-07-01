@@ -3,27 +3,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/reactjs-you_like-blue)
-
-<br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  🔬 I’m currently working on Django
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
-
-<hr>
-
 ```js
 import React, { useEffect } from 'react';
 
@@ -39,6 +18,28 @@ export default function main(greetings) {
 }
 
 ```
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="left">
+  I love to code and create memorable web experiences. Always looking for perfection and learning something new every day. 
+  With more than 5 years of experience developing web applications for Top Global Companies around the world. A proactive 
+  guy able to work under pressure and able to communicate in English fluidly.
+  <br>  
+</p>
+
+  <h3>Interesting things about me</h3>
+  💻 I love writing code and learn anythings about it I code as a way to express myself and for me it's Art.
+  <br>
+  🔬 I live under Kaizen philosophy a constant improvement every day.
+  <br>
+  📚 I’m love to read technical documentation and writing them
+  <br>
+  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+<hr>
+
+
 
 <h2 align="center">You can reach me at :alien:</h2>
 
