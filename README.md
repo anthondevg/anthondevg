@@ -55,7 +55,7 @@ export default function main(greetings) {
   <br>
   🔬 I live under Kaizen philosophy a constant improvement every day.
   <br>
-  📚 I’m love to read technical documentation and writing them
+  📚 I like to read technical documentation and writing them
   <br>
   🎸 I love rock and metal and play the guitar
   <br>
