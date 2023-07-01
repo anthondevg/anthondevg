@@ -1,7 +1,7 @@
 <h3 align="center">Hi! I'm Anthony Gonzalez. 👋</h3>
 
 <div align="center">
-	<img alt="Discord" src="https://img.shields.io/discord/1124798136364322888?style=for-the-badge&logo=discord&label=Talk%20with%20me%20on%20Discord">
+	<img alt="Discord" src="https://img.shields.io/discord/1124798136364322888?style=for-the-badge&logo=discord&label=Talk%20with%20me%20on%20Discord&link=https%3A%2F%2Fdiscord.gg%2Fxf3dvA7G">
 	<br />
 	<img alt="Static Badge" src="https://img.shields.io/badge/Favorite_Framework-React-blue">
 
