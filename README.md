@@ -57,9 +57,11 @@ export default function main(greetings) {
   <br>
   📚 I’m love to read technical documentation and writing them
   <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  🎸 I love rock and metal and play the guitar
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  ✏️🈸 I love draw, manga and japanese animation
+  <br>
+  📫 How to reach me: <a href="mailto: robwert1997@gmail.com">robwert1997@gmail.com</a>
 <hr>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
