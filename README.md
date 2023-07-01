@@ -2,6 +2,9 @@
 
 <div align="center">
 	<img alt="Discord" src="https://img.shields.io/discord/1124798136364322888?style=for-the-badge&logo=discord&label=Talk%20with%20me%20on%20Discord">
+	<br />
+	<img alt="Static Badge" src="https://img.shields.io/badge/Favorite_Framework-React-blue">
+
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -47,7 +50,7 @@ export default function main(greetings) {
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-  <h3>Interesting things about me</h3>
+  ### 🤗 &nbsp; Interesting facts about me
   💻 I love writing code and learn anythings about it I code as a way to express myself and for me it's Art.
   <br>
   🔬 I live under Kaizen philosophy a constant improvement every day.
