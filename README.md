@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 🌱 Anthony Here
 
 <!--
 **anthondevg/anthondevg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Discourse users](https://img.shields.io/discourse/users)
 
 Here are some ideas to get you started:
 
