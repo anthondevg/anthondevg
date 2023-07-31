@@ -16,8 +16,7 @@ export default function main(greetings) {
 	return {
 		"⚡ Quick bio:":                    "Hi! I'm Anthony, a guy who loves to create awesome technology.",
 		"👯 I’m looking to collaborate on": "React.js, Next.js, React Native and Node related projects",
-		"🤔 I’m looking for":     "Contribute with awesome challenging projects",
-		"💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"💬 Ask me about":                  "React, Node, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"📫 How to reach me:":              "robwert1997@gmail.com",
 	}
 }
