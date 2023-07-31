@@ -15,11 +15,10 @@ import React, { useEffect } from 'react';
 export default function main(greetings) {
 	return {
 		"⚡ Quick bio:":                    "Hi! I'm Anthony, a guy who loves to create awesome technology.",
-		"🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company)",
-		"👯 I’m looking to collaborate on": "React.js, Next.js and Laravel related projects",
-		"🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"👯 I’m looking to collaborate on": "React.js, Next.js, React Native and Node related projects",
+		"🤔 I’m looking for":     "Contribute with awesome challenging projects",
 		"💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"📫 How to reach me:":              "robwert1997@gmail.com",
 	}
 }
 
