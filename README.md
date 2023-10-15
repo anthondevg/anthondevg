@@ -15,8 +15,8 @@ import React, { useEffect } from 'react';
 export default function main(greetings) {
 	return {
 		"⚡ Quick bio:":                    "Hi! I'm Anthony, a guy who loves to create awesome technology.",
-		"👯 I’m looking to collaborate on": "React.js, Next.js, React Native and Node related projects",
-		"💬 Ask me about":                  "React, Node, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"👯 I’m looking to collaborate on": "React.js, Next.js, Python and Laravel related projects",
+		"💬 Ask me about":                  "React, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"📫 How to reach me:":              "robwert1997@gmail.com",
 	}
 }
@@ -36,7 +36,7 @@ export default function main(greetings) {
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -44,20 +44,20 @@ export default function main(greetings) {
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+
+
 
   ### 🤗 &nbsp; Interesting facts about me
-  💻 I love writing code and learn anythings about it I code as a way to express myself and for me it's Art.
+  💻 I love writing code.
   <br>
-  🔬 I live under Kaizen philosophy a constant improvement every day.
+  🔬 I live under a constant learning philosophy.
   <br>
-  📚 I like to read technical documentation and writing them
+  📚 I like React and Python
   <br>
-  🎸 I love rock and metal and play the guitar
+  🎸 I love rock and metal.
   <br>
-  ✏️🈸 I love draw, manga and japanese animation
+  ✏️🈸 I love drawing and manga.
   <br>
   📫 How to reach me: <a href="mailto: robwert1997@gmail.com">robwert1997@gmail.com</a>
 <hr>
