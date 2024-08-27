@@ -2,25 +2,8 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-```js
-import React, { useEffect } from 'react';
-
-export default function main(greetings) {
-	return {
-		"⚡ Quick bio:":                    "Hi! I'm Anthony, a guy who loves to create awesome technology.",
-		"👯 I’m looking to collaborate on": "React.js, Next.js, Python and Laravel related projects",
-		"💬 Ask me about":                  "React, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"📫 How to reach me:":              "robwert1997@gmail.com",
-	}
-}
-
-```
-
-
 <p align="left">
-  I love to code and create memorable web experiences. Always looking for perfection and learning something new every day. 
-  With more than 5 years of experience developing web applications for Top Global Companies around the world. A proactive 
-  guy able to work under pressure and able to communicate in English fluidly.
+  +6 years of experience as Full Stack Engineer in developing both Front End and Back End web solutions working with top companies around the world. Expertise with JavaScript (React, Vue, TypeScript), .NET Platform(ASP.NET Core, MVC, Transact-SQL, SQL Server, LINQ, Razor) PHP (Laravel), SQL, Postgres, MySQL, MongoDB, AWS and more.
   <br>  
 </p>
 
@@ -39,20 +22,18 @@ export default function main(greetings) {
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-
-
   ### 🤗 &nbsp; Interesting facts about me
-  💻 I love writing code.
+  💻 I love code and doing impactful solutions.
   <br>
   🔬 I live under a constant learning philosophy.
   <br>
-  📚 I like React and Python
+  📚 I love React and .NET
   <br>
   🎸 I love rock and metal.
   <br>
   ✏️🈸 I love drawing and manga.
   <br>
-  📫 How to reach me: <a href="mailto: robwert1997@gmail.com">robwert1997@gmail.com</a>
+  📫 How to reach me: <a href="mailto: robwert1997@gmail.com">robwertmt@gmail.com</a>
 <hr>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
