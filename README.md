@@ -23,15 +23,15 @@
 
 
   ### 🤗 &nbsp; Interesting facts about me
-  💻 I love code and doing impactful solutions.
+  💻 I started learning with Java but now I do mainly Javascript.
   <br>
   🔬 I live under a constant learning philosophy.
   <br>
-  📚 I love React and .NET
+  📚 I love to Learn new amazing technology.
   <br>
-  🎸 I love rock and metal.
+  🎸 I love Rock and classic songs.
   <br>
-  ✏️🈸 I love drawing and manga.
+  ✏️🈸 I love drawing and art.
   <br>
   📫 How to reach me: <a href="mailto: robwert1997@gmail.com">robwertmt@gmail.com</a>
 <hr>
