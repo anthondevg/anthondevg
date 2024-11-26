@@ -3,7 +3,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="left">
-  +6 years of experience as Full Stack Engineer in developing both Front End and Back End web solutions working with top companies around the world. Expertise with JavaScript (React, Vue, TypeScript), .NET Platform(ASP.NET Core, MVC, Transact-SQL, SQL Server, LINQ, Razor) PHP (Laravel), SQL, Postgres, MySQL, MongoDB, AWS and more.
+  Full Stack Engineer developing both Front End and Back End web solutions working in amazing technology. Expertise with JavaScript (React, Vue, TypeScript), PHP (Laravel), SQL, Postgres, MySQL, MongoDB, AWS and more.
   <br>  
 </p>
 
